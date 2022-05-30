@@ -18,6 +18,8 @@ prefer_datetime_locale: sv
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/Stockholm
 
+# Allow future posts
+future: true
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
