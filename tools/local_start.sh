@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-bundle exec jekyll s
+bundle exec jekyll s --no-watch --incremental
