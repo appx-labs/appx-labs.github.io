@@ -21,7 +21,7 @@ timezone: Europe/Stockholm
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: AppX-Labs                          # the main title
+title: HomeLab                          # the main title
 
 tagline: ApplicationX HomeLab Setup   # it will display as the sub-title
 
