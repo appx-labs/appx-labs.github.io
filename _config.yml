@@ -199,8 +199,8 @@ jekyll-archives:
     category: /categories/:name/
 
 # Image settings
-gems:
-  - jekyll-assets
+# gems:
+#  - jekyll-assets
 #  - jekyll-sitemap
 #  - jekyll-feed
 #  - jekyll-seo-tag
