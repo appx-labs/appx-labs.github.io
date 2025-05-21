@@ -28,7 +28,7 @@ title: HomeLab                          # the main title
 tagline: ApplicationX HomeLab Setup   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Guides and thoughts to setting up HomeLab
+  Guides and thoughts on setting up HomeLab
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://appx-labs.github.io'
@@ -197,3 +197,12 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Image settings
+gems:
+  - jekyll-assets
+#  - jekyll-sitemap
+#  - jekyll-feed
+#  - jekyll-seo-tag
+#  - jekyll-paginate
+#  - jekyll-archives
