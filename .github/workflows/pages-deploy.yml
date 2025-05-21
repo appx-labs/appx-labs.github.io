@@ -1,3 +1,8 @@
+# NOTE: GitHub Pages deployments must come from the 'gh-pages' branch.
+# Make sure your repository's Pages source is set to 'gh-pages' in Settings > Pages.
+# The 'actions/deploy-pages' action will automatically deploy to 'gh-pages'.
+# No manual push to 'gh-pages' is required.
+
 name: "Build and Deploy"
 on:
   push:
